@@ -23,10 +23,10 @@ public class BoxDemo {
         double vol;
 
         vol = mybox1.volume();
-        System.out.println("Volume is " + vol);
+        System.out.println("Volume 1 is " + vol);
 
         vol = mybox2.volume();
-        System.out.println("Volume is " + vol);
+        System.out.println("Volume 2 is " + vol);
     }
 
 }
